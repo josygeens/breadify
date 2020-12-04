@@ -1,0 +1,151 @@
+body {
+  background-color: #ABAF98;
+  font-family: helvetica;
+  position: relative;
+}
+
+header, footer {
+  background-color: #FADFCA;
+  align-items: center;
+}
+
+header img {
+  width: 18vh;
+  padding-top: 2vh;
+  margin-left: 18rem;
+}
+
+footer {
+  padding: 2vh;
+  width: 100%;
+}
+
+footer img {
+  width: 7rem;
+}
+
+.post1 {
+  background-color: white;
+  width: 85%;
+  height: 60rem;
+  margin: 3rem auto;
+  border: .5rem solid #6A6E60;
+  padding: 5vh;
+}
+
+.profielfoto {
+  width: 15vh;
+  padding-left: 3vh;
+  position: absolute;
+  top: 17.5rem;
+  left: 4rem;
+}
+
+.naam {
+  color: #B65F49;
+  font-size: 20pt;
+  font-weight: bold;
+  position: absolute;
+  top: 20.5rem;
+  left: 15rem;
+}
+
+.post1 .foto {
+  width: 35rem;
+  position: absolute;
+  top: 26rem;
+  left: 6.8rem;
+  border: .3rem solid #6A6E60;
+}
+
+.post1 .buttons img {
+  width: 3rem;
+}
+
+.post1 .buttons {
+  position: absolute;
+  top: 62rem;
+}
+
+.buttons p {
+  font-weight: bold;
+  font-size: 10pt;
+  position: absolute;
+  top: 1rem;
+  left: 20rem;
+}
+
+.recept a {
+  text-decoration: none;
+  color: #6A6E60;
+}
+
+.beschrijving {
+  max-width: 35rem;
+  position: absolute;
+  top: 66rem;
+  line-height: 1.5rem;
+}
+
+.post2 {
+  background-color: white;
+  width: 85%;
+  height: 65rem;
+  margin: 3rem auto;
+  border: .5rem solid #6A6E60;
+  padding: 5vh;
+}
+
+.post2 .profielfoto2 {
+  width: 15vh;
+  padding-left: 3vh;
+  position: absolute;
+  top: 80rem;
+  left: 4rem;
+}
+
+.naam2 {
+  color: #B65F49;
+  font-size: 20pt;
+  font-weight: bold;
+  position: absolute;
+  top: 83rem;
+  left: 15rem;
+}
+
+.post2 .foto2 {
+  width: 35rem;
+  position: absolute;
+  top: 90rem;
+  left: 6.8rem;
+  border: .3rem solid #6A6E60;
+}
+
+.post2 .buttons2 img {
+  width: 3rem;
+}
+
+.post2 .buttons2 {
+  position: absolute;
+  top: 132rem;
+}
+
+.buttons2 p {
+  font-weight: bold;
+  font-size: 10pt;
+  position: absolute;
+  top: 1rem;
+  left: 20rem;
+}
+
+.recept2 a {
+  text-decoration: none;
+  color: #6A6E60;
+}
+
+.beschrijving2 {
+  max-width: 35rem;
+  position: absolute;
+  top: 136rem;
+  line-height: 1.5rem;
+}

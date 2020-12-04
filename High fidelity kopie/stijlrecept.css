@@ -1,0 +1,56 @@
+body {
+  background-color: #ABAF98;
+  font-family: helvetica;
+  position: relative;
+}
+
+header, footer {
+  background-color: #FADFCA;
+  align-items: center;
+}
+
+header img {
+  width: 18vh;
+  padding-top: 2vh;
+  margin-left: 18rem;
+}
+
+footer {
+  padding: 2vh;
+  width: 100%;
+}
+
+footer img {
+  width: 7rem;
+}
+
+div {
+  background-color: white;
+  width: 75%;
+  height: 70rem;
+  margin: 3rem auto;
+  border: .5rem solid #6A6E60;
+  padding: 5vh;
+}
+
+.recept img {
+  width: 73%;
+  position: absolute;
+  top: 15.2rem;
+  left: 6.5rem;
+}
+
+h1 {
+  font-size: 20pt;
+  color: #B65F49;
+  font-weight: bold;
+  position: absolute;
+  top: 53rem;
+  left: 14rem;
+}
+
+p {
+  max-width: 20rem;
+  font-size: 10pt;
+
+}

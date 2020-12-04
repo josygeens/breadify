@@ -1,0 +1,118 @@
+body {
+  background-color: #ABAF98;
+  font-family: helvetica;
+  position: relative;
+}
+
+header, footer {
+  background-color: #FADFCA;
+  align-items: center;
+}
+
+header img {
+  width: 18vh;
+  padding-top: 2vh;
+  margin-left: 18rem;
+}
+
+main {
+  height: 70rem;
+}
+
+footer {
+  padding: 2vh;
+  width: 100%;
+}
+
+footer img {
+  width: 7rem;
+  margin-left:
+}
+
+h1 {
+  color: white;
+  font-size: 30pt;
+  font-weight: bold;
+  text-align: center;
+  padding: 4vh;
+}
+
+.foto1 {
+  width: 10rem;
+  position: absolute;
+  top: 22rem;
+  left: 4rem;
+  border: .5rem solid #6A6E60;
+}
+.foto2 {
+  width: 10rem;
+  position: absolute;
+  top: 33rem;
+  left: 4rem;
+  border: .5rem solid #6A6E60;
+}
+
+.foto3 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  top: 44rem;
+  left: 4rem;
+  border: .5rem solid #6A6E60;
+}
+
+.foto4 {
+  width: 10rem;
+  position: absolute;
+  top: 55rem;
+  left: 4rem;
+  border: .5rem solid #6A6E60;
+}
+
+.foto5 {
+  width: 10rem;
+  position: absolute;
+  top: 66rem;
+  left: 4rem;
+  border: .5rem solid #6A6E60;
+}
+
+p {
+  font-size: 12pt;
+  font-weight: bold;
+  color: white;
+  margin-left: 16rem;
+  margin-top: 1rem;
+  line-height: 10rem;
+}
+
+.pijl1 {
+  width: 7rem;
+  position: absolute;
+  top: 23.5rem;
+  left: 37rem;
+}
+.pijl2 {
+  width: 7rem;
+  position: absolute;
+  top: 34.5rem;
+  left: 37rem;
+}
+.pijl3 {
+  width: 7rem;
+  position: absolute;
+  top: 45.5rem;
+  left: 37rem;
+}
+.pijl4 {
+  width: 7rem;
+  position: absolute;
+  top: 56.5rem;
+  left: 37rem;
+}
+.pijl5 {
+  width: 7rem;
+  position: absolute;
+  top: 67.5rem;
+  left: 37rem;
+}

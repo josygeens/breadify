@@ -1,0 +1,119 @@
+body {
+  background-color: #ABAF98;
+  font-family: helvetica;
+  position: relative;
+}
+
+header, footer {
+  background-color: #FADFCA;
+  align-items: center;
+}
+
+header img {
+  width: 18vh;
+  padding-top: 2vh;
+  margin-left: 18rem;
+}
+
+main {
+  height: 65rem;
+}
+
+footer {
+  padding: 2vh;
+  width: 100%;
+}
+
+footer img {
+  width: 7rem;
+  margin-left:
+}
+
+.profielfoto {
+  width: 25vh;
+  padding-left: 3vh;
+  position: absolute;
+  top: 15rem;
+  left: 4rem;
+}
+
+.naam {
+  color: #B65F49;
+  font-size: 25pt;
+  font-weight: bold;
+  position: absolute;
+  top: 20.5rem;
+  left: 22rem;
+}
+
+.post1 .foto1 {
+  width: 12rem;
+  position: absolute;
+  top: 32rem;
+  left: 5rem;
+  border: .5rem solid #6A6E60;
+}
+.post1 .foto2 {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  top: 32rem;
+  left: 19rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto3 {
+  width: 12rem;
+  position: absolute;
+  top: 32rem;
+  left: 33rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto4 {
+  width: 12rem;
+  position: absolute;
+  top: 46rem;
+  left: 5rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto5 {
+  width: 12rem;
+  position: absolute;
+  top: 46rem;
+  left: 19rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto6 {
+  width: 12rem;
+  position: absolute;
+  top: 46rem;
+  left: 33rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto7 {
+  width: 12rem;
+  position: absolute;
+  top: 60rem;
+  left: 5rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto8 {
+  width: 12rem;
+  position: absolute;
+  top: 60rem;
+  left: 19rem;
+  border: .5rem solid #6A6E60;
+}
+
+.post1 .foto9 {
+  width: 12rem;
+  position: absolute;
+  top: 60rem;
+  left: 33rem;
+  border: .5rem solid #6A6E60;
+}
